@@ -442,7 +442,10 @@ html{
     }
     .operaciones__container__operaciones__operacion{
         width: 100%;
+    }.contacto__container__contenido__medios__logos i{
+        font-size: 18px;
     }
+    
 }
 
 @media screen and (max-width:320px){
